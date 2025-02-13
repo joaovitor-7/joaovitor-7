@@ -47,15 +47,5 @@ Me chamo João Vitor Amorim, tenho 20 anos, Belo Horizonte - Minas Gerais. Atual
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovitor-7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 
